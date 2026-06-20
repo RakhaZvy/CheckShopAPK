@@ -254,6 +254,7 @@ st.markdown("""
 <div class="hero">
   <h1>👾🛍️ CheckShop</h1>
   <p>English e-commerce review sentiment analyzer &mdash; powered by <span>4 models</span></p>
+  <p>Naive Bayes, Logistic Regression, XGBOOST, BERT<p>
 </div>
 """, unsafe_allow_html=True)
 
