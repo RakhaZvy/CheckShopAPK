@@ -14,7 +14,7 @@ from transformers import BertTokenizer, BertForSequenceClassification
 
 st.set_page_config(
     page_title="CheckShop · English E-Commerce Review Analyzer",
-    page_icon="👾🛍️",
+    page_icon="🛍️",
     layout="wide",
 )
 
