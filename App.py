@@ -13,8 +13,8 @@ from nltk.tokenize import word_tokenize
 from transformers import BertTokenizer, BertForSequenceClassification
 
 st.set_page_config(
-    page_title="SentiScope · Bangla E-Commerce Review Analyzer",
-    page_icon="🔍",
+    page_title="CheckShop · English E-Commerce Review Analyzer",
+    page_icon="👾🛍️",
     layout="wide",
 )
 
